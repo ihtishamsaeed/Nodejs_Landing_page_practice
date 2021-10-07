@@ -1,0 +1,15 @@
+{
+  "name": "ihtisham",
+  "version": "1.0.0",
+  "description": "this is testing package of express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ihtishamkhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
